@@ -6,7 +6,7 @@ I build modern web and mobile applications with **TypeScript**, from developer t
 
 ### 🚀 Projects
 
-**[Randy Code](https://randy-code.dev)** — My portfolio and a collection of developer tools.
+**[Randy Code](https://randy-code.dev)** — My portfolio and a collection of open-source developer tools built with TypeScript.
 
 **[Liflow](https://liflow.app)** — A private family timeline for preserving and sharing life's important memories.
 
