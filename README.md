@@ -2,19 +2,24 @@
 
 **Fullstack TypeScript Developer**
 
-I build modern web and mobile applications with **TypeScript**, from developer tools to full-stack products.
+I build modern web and mobile applications with **TypeScript**, from full-stack products to developer tools.
 
 ### 🚀 Projects
 
-**[Randy Code](https://randy-code.dev)** — My portfolio and a collection of open-source developer tools built with TypeScript.
+**[Liflow](https://liflow.app)** — Private family timeline for preserving and sharing important memories.
 
-**[Liflow](https://liflow.app)** — A private family timeline for preserving and sharing life's important memories.
+**[NativeProbe](https://github.com/Randy-R-code/nativeprobe)** — Open-source React Native playground for exploring and testing real device capabilities.
+
+### 🧰 Open Source
+
+**[RepoCheckup](https://github.com/Randy-R-code/repo-checkup)** — Zero-config CLI for checking JavaScript and TypeScript repository health.
+
+**[CookieCheckup](https://github.com/Randy-R-code/cookie-checkup)** — Visual tool for understanding how browsers handle HTTP cookies.
 
 ### 🛠️ Stack
 
-`TypeScript` · `React` · `Next.js` · `React Native` · `Expo` · `Node.js` · `PostgreSQL`
+**TypeScript · React · Next.js · React Native · Expo · Node.js · PostgreSQL**
 
 ### 🔗 Links
 
-**Portfolio:** [randy-code.dev](https://randy-code.dev)  
-**Liflow:** [liflow.app](https://liflow.app)
+**Portfolio:** [randy-code.dev](https://randy-code.dev)
