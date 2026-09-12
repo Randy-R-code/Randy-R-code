@@ -20,6 +20,8 @@ I build modern web and mobile applications with **TypeScript**, from full-stack 
 
 **TypeScript · React · Next.js · React Native · Expo · Node.js · PostgreSQL**
 
-### 🔗 Links
+### 🔗 Links & Contact
 
 **Portfolio:** [randy-code.dev](https://randy-code.dev)
+
+**Email:** [contact@randy-code.dev](mailto:contact@randy-code.dev)
