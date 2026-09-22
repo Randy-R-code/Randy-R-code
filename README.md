@@ -8,6 +8,8 @@ I build modern web and mobile applications with **TypeScript**, from full-stack 
 
 **[Liflow](https://liflow.app)** — Private family timeline for preserving and sharing important memories.
 
+**[Flonexa](https://flonexa.app)** — Personalized Tennis & Formula 1 briefing with live events, results, standings, and AI-summarized news.
+
 **[NativeProbe](https://github.com/Randy-R-code/nativeprobe)** — Open-source React Native playground for exploring and testing real device capabilities.
 
 ### 🧰 Open Source
